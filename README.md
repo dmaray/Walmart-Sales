@@ -14,7 +14,7 @@ Project from the Introduction to Linear Regression Regression Analysis Course (A
 * Walmart Project Slides.pdf: Contains the presentation based on our code & report that was presented to the class.
 
 ### Contributions: 
-* Brian Park & Hangting Lu - Code & Report Editor
+* Brian Park & Hangting Lu - Code & Report Editors
 * He Li & Dylan Maray - Report
 * Dylan Maray - Presentation  
 
