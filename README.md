@@ -6,7 +6,7 @@ Project from the Introduction to Linear Regression Regression Analysis Course (A
 
 ### Documents:
 * [Walmart Dataset](Walmart.csv): Contains the dataset for the project.
-* [R Code](p.RMD): R source code performing exploratory data analysis and predictive linear modeling.
+* [R Code](p.Rmd): R source code performing exploratory data analysis and predictive linear modeling.
 * [Final Report](<AMS 317 Report.pdf>):
   - The report begins with an introduction to our project & literature review.
   - Methods included formulating and testing hypotheses, checking statistical assumptions, and refining models to ensure accuracy and interpretability.
